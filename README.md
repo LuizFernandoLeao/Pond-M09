@@ -1,11 +1,11 @@
-# Projeto de Aplicação Web Segura
+# Projeto de Aplicação Web
 
 Este projeto é uma aplicação web modularizada que utiliza contêineres para uma implantação segura, por meio do Docker. Apresenta em um front-end construído com React, um back-end desenvolvido em GoLang usando o framework Gin, um banco de dados PostgreSQL e Nginx como servidor web. 
 
 ## Estrutura do projeto
 
 ```
-secure-web-app
+pondM09
 ├── docker-compose.yml
 ├── README.md
 ├── frontend
@@ -55,7 +55,7 @@ secure-web-app
 1. **Clone o Repositório**
    ```bash
    git clone <repository-url>
-   cd secure-web-app
+   cd pondM09
    ```
 
 2. **Construa e Execute a Aplicação**
